@@ -1,0 +1,9 @@
+# Ignore .DS_Store
+.DS_Store
+
+# Ignore artifacts
+/mount/*
+!/mount/server.properties
+!/mount/eula.txt
+!/mount/ops.json
+!/mount/whitelist.json
