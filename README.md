@@ -16,7 +16,7 @@ Some useful admin commands are:
 
 ### Set lives
 ```sh
-/newlife set lives <player> 6
+/newlife set lives <player> <amount-of-lives-max-6>
 ```
 
 ### Get origin
