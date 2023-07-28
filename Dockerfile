@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-# Install JVM
+# Install JVM and add minecraft user
 RUN apk add --no-cache openjdk17-jre-headless
 RUN adduser -S -H -D -u 1000 -s /sbin/nologin minecraft
 
