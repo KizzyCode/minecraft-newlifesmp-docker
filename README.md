@@ -1,15 +1,17 @@
 # kizzycode/minecraft-newlifesmp
 
 A trivial minecraft-server docker image for
-[New Life SMP v7](https://www.curseforge.com/minecraft/modpacks/new-life-smp/files/4626113).
+[New Life SMP v8](https://www.curseforge.com/minecraft/modpacks/new-life-smp/files/4642569).
 
 ## EULA
 **Note: by using this image, you agree to the Minecraft Server EULA.**
 
-## NewLifeSMP v7 ServerPack
-The files in `./NewLifeSMP-v7-ServerPack` have been obtained from
-https://www.curseforge.com/minecraft/modpacks/new-life-smp/files/4626113, the files are included to allow for
-automatic and reproducible container builds.
+### NewLifeSMP v8 ServerPack
+The files in `./NewLifeSMP-v8-ServerPack` have been obtained from
+https://www.curseforge.com/minecraft/modpacks/new-life-smp/files/4642569; the files are included in this repo to allow
+for automatic and reproducible container builds. The
+[BisectHosting Server Integration Menu](https://www.curseforge.com/minecraft/mc-mods/bisecthosting-server-integration-menu-forge)-adware
+has been removed.
 
 ## Useful admin commands
 Some useful admin commands are:

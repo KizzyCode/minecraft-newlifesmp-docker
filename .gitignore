@@ -7,3 +7,6 @@
 !/mount/eula.txt
 !/mount/ops.json
 !/mount/whitelist.json
+
+# Ignore adware
+/NewLifeSMP-*/mods/BHMenu*.jar
