@@ -16,3 +16,5 @@ services:
       - ./mount/whitelist.json:/var/minecraft/whitelist.json
       - ./mount/server.properties:/var/minecraft/server.properties
       - ./mount/eula.txt:/var/minecraft/eula.txt
+    environment:
+      JAVA_ARGS: "-Xmx6G"
